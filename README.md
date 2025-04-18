@@ -5,6 +5,7 @@ This project is a simple RESTful API server built using Node.js. It allows users
 # How to install and run
 
 To run the project, follow these simple steps:
+
 Step 1: Clone the repository
 git clone https://github.com/rodolf2/appdev2-midterm-project.git
 cd appdev2-midterm-project
