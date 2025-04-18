@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Build an API",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Finish midterm",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Study for exam",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Review JS",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "Hello Lang",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "title": "Learn Node.js",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "title": "Midterm Project in Appdev",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Watch Movies",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "Learn Backend Development",
+    "completed": false
+  }
+]
